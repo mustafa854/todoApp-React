@@ -1,3 +1,5 @@
+![3](https://github.com/mustafa854/todoApp-React/assets/84233282/f45b2573-16e4-4b9a-a9de-f5a987ba8af5)
+
 # Simple TODO App using React
 
 This simple TODO application is built using React, Tailwind CSS, and React Context API. It allows users to manage their daily tasks by adding, editing, and deleting TODO items efficiently.
@@ -45,6 +47,17 @@ todoApp/
 ```
 
 ## Demo Images <a name="demo-images"></a>
+
+![1](https://github.com/mustafa854/todoApp-React/assets/84233282/2abbcb2a-b83c-420a-b4d9-70b7bbdd4cb5)
+
+![2](https://github.com/mustafa854/todoApp-React/assets/84233282/e270175a-b52a-41e8-8f29-10393f1f2ed3)
+
+![3](https://github.com/mustafa854/todoApp-React/assets/84233282/f0894663-b8f4-4887-9392-98aa72d727c6)
+
+![4](https://github.com/mustafa854/todoApp-React/assets/84233282/a6d94d76-4e9b-4fb7-8af2-71bc4e021065)
+
+![5](https://github.com/mustafa854/todoApp-React/assets/84233282/9a2b74ad-c08c-4a52-bfb0-f1209f4540f5)
+
 
 ## Installation <a name="installation"></a>
 
