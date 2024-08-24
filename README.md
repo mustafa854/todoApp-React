@@ -2,7 +2,7 @@
 
 # Simple TODO App using React
 
-This simple TODO application is built using React, Tailwind CSS, and React Context API. It allows users to manage their daily tasks by adding, editing, and deleting TODO items efficiently.
+This simple TODO application is built using React, Tailwind CSS, and React Context API. It allows users to manage their daily tasks by adding, editing, and deleting TODO items efficiently
 
 ## Table of Contents
 
